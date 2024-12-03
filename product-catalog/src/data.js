@@ -9,5 +9,4 @@ export const products = [
   { id: 2, name: 'Product 2', price: 19.99, image: product2Image },
   { id: 3, name: 'Product 3', price: 39.99, image: product3Image },
   { id: 4, name: 'Product 4', price: 24.99, image: product4Image },
-  // Add more products as needed
 ];

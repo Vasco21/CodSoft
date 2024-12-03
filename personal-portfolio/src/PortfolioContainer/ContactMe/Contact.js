@@ -8,7 +8,7 @@ import Footerpg from '../Footerpg/Footerpg'
 
 const Result =()  =>{
     return (
-        <p>Successfully sent, i will contact you soon!!!</p>
+        <p>Successfully sent, i will contact you soon!!</p>
     )
 }
 
